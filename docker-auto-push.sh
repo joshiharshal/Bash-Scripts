@@ -2,7 +2,7 @@
 cd /home/harshal/wed/My-portfolio || exit
 
 IMAGE_NAME="newimage"    
-DOCKER_USERNAME="saurabhmate" 
+DOCKER_USERNAME="harshal001" 
 TAG="latest"
 CONTAINER_NAME="new_container"  
 
